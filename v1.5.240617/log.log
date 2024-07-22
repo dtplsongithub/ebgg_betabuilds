@@ -1,0 +1,67 @@
+[2024/07/22	15:29:04	frame 0 		1768 ms]	 CREATED:	LOGFILE
+[2024/07/22	15:29:04	frame 0 		1847 ms]	 CREATED:	childapplet
+[2024/07/22	15:29:05	frame 0 		2020 ms]	 LOADED:	font MSGothic32
+[2024/07/22	15:29:05	frame 0 		2038 ms]	 LOADED:	font MSGothic20
+[2024/07/22	15:29:05	frame 0 		2039 ms]	 DEBUG:		succesfully loaded background list
+[2024/07/22	15:29:05	frame 0 		2059 ms]	 CREATED:	button 01_name
+[2024/07/22	15:29:05	frame 0 		2059 ms]	 CREATED:	button 01_pal
+[2024/07/22	15:29:05	frame 0 		2060 ms]	 CREATED:	button 01_ptm
+[2024/07/22	15:29:05	frame 0 		2061 ms]	 CREATED:	button goToEditor
+[2024/07/22	15:29:05	frame 0 		2061 ms]	 CREATED:	button goToEditor
+[2024/07/22	15:29:05	frame 0 		2061 ms]	 CREATED:	button goToEditor
+[2024/07/22	15:29:05	frame 0 		2062 ms]	 CREATED:	button saveBackground
+[2024/07/22	15:29:05	frame 0 		2062 ms]	 CREATED:	button cancelOverwrite
+[2024/07/22	15:29:05	frame 0 		2062 ms]	 CREATED:	button cancelExit
+[2024/07/22	15:29:05	frame 0 		2063 ms]	 CREATED:	button createPaletteColor
+[2024/07/22	15:29:05	frame 0 		2063 ms]	 CREATED:	button savePaletteColor
+[2024/07/22	15:29:05	frame 0 		2063 ms]	 CREATED:	button deletePaletteColor
+[2024/07/22	15:29:05	frame 0 		2064 ms]	 CREATED:	button editPaletteColor
+[2024/07/22	15:29:05	frame 0 		2064 ms]	 CREATED:	button goToLoader
+[2024/07/22	15:29:05	frame 0 		2064 ms]	 CREATED:	button goToWindow2
+[2024/07/22	15:29:05	frame 0 		2065 ms]	 CREATED:	button goToEditor
+[2024/07/22	15:29:05	frame 0 		2065 ms]	 CREATED:	button goToTitlescreen
+[2024/07/22	15:29:05	frame 0 		2065 ms]	 CREATED:	button goToTitlescreen
+[2024/07/22	15:29:05	frame 0 		2066 ms]	 CREATED:	button applyResize
+[2024/07/22	15:29:05	frame 0 		2066 ms]	 CREATED:	button cancelResize
+[2024/07/22	15:29:05	frame 0 		2066 ms]	 CREATED:	button goToSettings
+[2024/07/22	15:29:05	frame 0 		2167 ms]	 LOADED:	asset assets/bigsteps.png
+[2024/07/22	15:29:05	frame 0 		2199 ms]	 LOADED:	asset assets/bigsteps_.png
+[2024/07/22	15:29:05	frame 0 		2261 ms]	 LOADED:	asset for imageButton assets/pencil.png
+[2024/07/22	15:29:05	frame 0 		2262 ms]	 CREATED:	imageButton editorPencil
+[2024/07/22	15:29:05	frame 0 		2268 ms]	 LOADED:	asset for imageButton assets/line.png
+[2024/07/22	15:29:05	frame 0 		2268 ms]	 CREATED:	imageButton editorLine
+[2024/07/22	15:29:05	frame 0 		2273 ms]	 LOADED:	asset for imageButton assets/rectangle.png
+[2024/07/22	15:29:05	frame 0 		2274 ms]	 CREATED:	imageButton editorRect
+[2024/07/22	15:29:05	frame 0 		2279 ms]	 LOADED:	asset for imageButton assets/filledRectangle.png
+[2024/07/22	15:29:05	frame 0 		2280 ms]	 CREATED:	imageButton editorFillRect
+[2024/07/22	15:29:05	frame 0 		2285 ms]	 LOADED:	asset for imageButton assets/circle.png
+[2024/07/22	15:29:05	frame 0 		2285 ms]	 CREATED:	imageButton editorCircle
+[2024/07/22	15:29:05	frame 0 		2292 ms]	 LOADED:	asset for imageButton assets/filledCircle.png
+[2024/07/22	15:29:05	frame 0 		2292 ms]	 CREATED:	imageButton editorFillCircle
+[2024/07/22	15:29:05	frame 0 		2293 ms]	 CREATED:	button editorGrid
+[2024/07/22	15:29:05	frame 0 		2293 ms]	 CREATED:	button editorResizePtm
+[2024/07/22	15:29:05	frame 0 		2294 ms]	 CREATED:	button editorPreviewMode
+[2024/07/22	15:29:05	frame 0 		2294 ms]	 CREATED:	button editorUsePaloffset
+[2024/07/22	15:29:05	frame 0 		2298 ms]	 LOADED:	asset for imageButton assets/zoomin.png
+[2024/07/22	15:29:05	frame 0 		2298 ms]	 CREATED:	imageButton editorZoomIn
+[2024/07/22	15:29:05	frame 0 		2301 ms]	 LOADED:	asset for imageButton assets/zoomout.png
+[2024/07/22	15:29:05	frame 0 		2301 ms]	 CREATED:	imageButton editorZoomOut
+[2024/07/22	15:29:05	frame 0 		2305 ms]	 LOADED:	asset for imageButton assets/left.png
+[2024/07/22	15:29:05	frame 0 		2305 ms]	 CREATED:	imageButton editorMoveL
+[2024/07/22	15:29:05	frame 0 		2308 ms]	 LOADED:	asset for imageButton assets/up.png
+[2024/07/22	15:29:05	frame 0 		2309 ms]	 CREATED:	imageButton editorMoveU
+[2024/07/22	15:29:05	frame 0 		2311 ms]	 LOADED:	asset for imageButton assets/down.png
+[2024/07/22	15:29:05	frame 0 		2311 ms]	 CREATED:	imageButton editorMoveD
+[2024/07/22	15:29:05	frame 0 		2314 ms]	 LOADED:	asset for imageButton assets/right.png
+[2024/07/22	15:29:05	frame 0 		2314 ms]	 CREATED:	imageButton editorMoveR
+[2024/07/22	15:29:05	frame 0 		2314 ms]	 LOADED:	checking save...
+[2024/07/22	15:29:05	frame 0 		2367 ms]	 DEBUG:		No config.dat problems found.
+[2024/07/22	15:29:05	frame 0 		2789 ms]	 LOADED:	finished loading
+[2024/07/22	15:29:05	frame 0 		2794 ms]	 LOADED:	childapplet
+[2024/07/22	15:29:06	frame 1 		3068 ms]	 DEBUG:		switched to menu 10
+[2024/07/22	15:29:11	frame 160 		8817 ms]	 DEBUG:		switched to menu 2
+[2024/07/22	15:29:11	frame 160 		8898 ms]	 ERROR:		java.lang.ArrayIndexOutOfBoundsException: Index 481932 out of bounds for length 288000 on rendering progressBar
+[2024/07/22	15:29:12	frame 161 		9107 ms]	 DEBUG:		switched to menu 1
+[2024/07/22	15:29:16	frame 289 		13707 ms]	 DEBUG:		switched to menu 13
+[2024/07/22	15:29:16	frame 290 		13825 ms]	 DEBUG:		switched to menu 10
+[2024/07/22	15:29:22	frame 461 		19782 ms]	 DEBUG:		exiting...
