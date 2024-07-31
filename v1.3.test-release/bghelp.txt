@@ -1,0 +1,33 @@
+How to make my own backgrounds?
+
+STEP 1
+
+create a .deb file in /data
+in it, write:
+
+---start of file
+name of background
+pallete colors, without #, separated by ","
+once every how many frames does the pallete cycle
+does the pallete cycle? (0/1)
+does the pallete cycle in reverse? (0/1)
+dont cycle the nth items
+camera velocity x
+camera velocity y
+[PTM] separated by , no need for {} dont put a , at the end
+-ptmend <- neccesary
+scale
+x wavyness scale
+x wavyness frequency
+interleaved wavyness? (0/1)
+y wavyness scale
+y wavyness frequency
+x static scale
+---end of file
+
+STEP 2
+
+there is no step 2
+the file is automatically detected by the program and added in the background list :)
+
+if there are any problems carefully read your file or contact me at 

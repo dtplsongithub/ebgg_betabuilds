@@ -1,0 +1,42 @@
+[2024/07/31	11:56:46	frame 0 		1213 ms]	 CREATED:	LOGFILE
+[2024/07/31	11:56:46	frame 0 		1241 ms]	 LOADED:	font MSGothic32
+[2024/07/31	11:56:46	frame 0 		1244 ms]	 LOADED:	font MSGothic20
+[2024/07/31	11:56:46	frame 0 		1246 ms]	 DEBUG:		succesfully loaded background list
+[2024/07/31	11:56:46	frame 0 		1251 ms]	 DEBUG:		succesfully loaded background color.deb
+[2024/07/31	11:56:46	frame 0 		1322 ms]	 CREATED:	childapplet
+[2024/07/31	11:56:46	frame 0 		1326 ms]	 CREATED:	button 01_name
+[2024/07/31	11:56:46	frame 0 		1327 ms]	 CREATED:	button 01_pal
+[2024/07/31	11:56:46	frame 0 		1327 ms]	 CREATED:	button 01_ptm
+[2024/07/31	11:56:46	frame 0 		1328 ms]	 CREATED:	button save
+[2024/07/31	11:56:46	frame 0 		1328 ms]	 CREATED:	button save
+[2024/07/31	11:56:46	frame 0 		1328 ms]	 CREATED:	button save
+[2024/07/31	11:56:46	frame 0 		1329 ms]	 CREATED:	button saveBackground
+[2024/07/31	11:56:46	frame 0 		1329 ms]	 CREATED:	button cancelOverwrite
+[2024/07/31	11:56:46	frame 0 		1329 ms]	 CREATED:	button cancelExit
+[2024/07/31	11:56:46	frame 0 		1330 ms]	 CREATED:	button createPaletteColor
+[2024/07/31	11:56:46	frame 0 		1330 ms]	 CREATED:	button savePaletteColor
+[2024/07/31	11:56:46	frame 0 		1331 ms]	 CREATED:	button deletePaletteColor
+[2024/07/31	11:56:46	frame 0 		1331 ms]	 CREATED:	button editPaletteColor
+[2024/07/31	11:56:46	frame 0 		1380 ms]	 LOADED:	asset assets/bigsteps.png
+[2024/07/31	11:56:46	frame 0 		1398 ms]	 LOADED:	asset assets/bigsteps_.png
+[2024/07/31	11:56:46	frame 0 		1407 ms]	 LOADED:	asset for imageButton assets/pencil.png
+[2024/07/31	11:56:46	frame 0 		1407 ms]	 CREATED:	imageButton editorPencil
+[2024/07/31	11:56:46	frame 0 		1410 ms]	 LOADED:	asset for imageButton assets/line.png
+[2024/07/31	11:56:46	frame 0 		1411 ms]	 CREATED:	imageButton editorLine
+[2024/07/31	11:56:46	frame 0 		1413 ms]	 LOADED:	asset for imageButton assets/rectangle.png
+[2024/07/31	11:56:46	frame 0 		1413 ms]	 CREATED:	imageButton editorRect
+[2024/07/31	11:56:46	frame 0 		1418 ms]	 LOADED:	asset for imageButton assets/filledRectangle.png
+[2024/07/31	11:56:46	frame 0 		1418 ms]	 CREATED:	imageButton editorFillRect
+[2024/07/31	11:56:46	frame 0 		1421 ms]	 LOADED:	asset for imageButton assets/circle.png
+[2024/07/31	11:56:46	frame 0 		1421 ms]	 CREATED:	imageButton editorCircle
+[2024/07/31	11:56:46	frame 0 		1424 ms]	 LOADED:	asset for imageButton assets/filledCircle.png
+[2024/07/31	11:56:46	frame 0 		1424 ms]	 CREATED:	imageButton editorFillCircle
+[2024/07/31	11:56:46	frame 0 		1426 ms]	 LOADED:	asset for imageButton assets/grid.png
+[2024/07/31	11:56:46	frame 0 		1426 ms]	 CREATED:	imageButton editorGrid
+[2024/07/31	11:56:46	frame 0 		1427 ms]	 CREATED:	button editorStatusBar
+[2024/07/31	11:56:46	frame 0 		1427 ms]	 LOADED:	checking save...
+[2024/07/31	11:56:46	frame 0 		1433 ms]	 LOADED:	no problems found.
+[2024/07/31	11:56:46	frame 0 		1433 ms]	 LOADED:	finished loading
+[2024/07/31	11:56:46	frame 0 		1437 ms]	 LOADED:	configured childapplet
+[2024/07/31	11:56:46	frame 1 		1720 ms]	 DEBUG:		switched to menu 0
+[2024/07/31	11:56:47	frame 14 		2306 ms]	 DEBUG:		exiting...
